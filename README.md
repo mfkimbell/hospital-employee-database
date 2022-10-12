@@ -22,10 +22,7 @@ directed towards. The data from uabEmployees.txt is automatically processed line
 Additionally, based on the letter located at index 0, it asks for different inputs to match the amount of parameters each
 position object requires. Getters and setters are made for every variable for every position as well.
 
-<img width="542" alt="Screen Shot 2022-10-11 at 8 17 25 PM" src="https://user-images.githubusercontent.com/107063397/195226929-678f57ac-5571-458b-ac31-8f73a95a5a80.png">
-<img width="342" alt="Screen Shot 2022-10-11 at 8 17 39 PM" src="https://user-images.githubusercontent.com/107063397/195226935-c39153b7-4c1d-4fdd-b7d6-bfe7c873a813.png">
-<img width="343" alt="Screen Shot 2022-10-11 at 8 17 48 PM" src="https://user-images.githubusercontent.com/107063397/195226939-526c2781-7b3b-41a4-beac-5b9fc03e63a8.png">
-<img width="340" alt="Screen Shot 2022-10-11 at 8 17 57 PM" src="https://user-images.githubusercontent.com/107063397/195226943-5ca2a364-905a-4bd9-8882-06a0916db888.png">
-<img width="350" alt="Screen Shot 2022-10-11 at 8 18 06 PM" src="https://user-images.githubusercontent.com/107063397/195226951-d9b52783-86f1-4e9f-a7e5-45cfb2e7ed7a.png">
-<img width="255" alt="Screen Shot 2022-10-11 at 8 18 23 PM" src="https://user-images.githubusercontent.com/107063397/195226971-e92b3d56-68fb-443a-a71e-3c644c86974b.png">
+<img width="540" alt="Screen Shot 2022-10-12 at 5 21 08 PM" src="https://user-images.githubusercontent.com/107063397/195458838-0dac49fd-32a1-403d-8899-d9fe6d48ede1.png">
+<img width="540" alt="Screen Shot 2022-10-12 at 5 21 21 PM" src="https://user-images.githubusercontent.com/107063397/195458846-2aaea6e8-034b-4cbb-a832-bd87ed34b3fe.png">
+
 
