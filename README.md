@@ -1,5 +1,7 @@
 # Java_HospitalEmployeeDatabase
 
+HospitalEmployeeDatabase
+
 Introduction
 Explain the purpose of the project (1 Paragraph)
 The purpose of this project is to implement a system to store data for employees at UAB Hospital. You have
